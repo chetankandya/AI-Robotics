@@ -1,0 +1,69 @@
+{
+    "children": [
+        {
+            "children": [
+            ],
+            "common_params": {
+            },
+            "name": "drive-to",
+            "params": {
+                "p": {
+                    "rostype": "Point",
+                    "x": 2,
+                    "y": 2,
+                    "z": 0
+                },
+                "use-motion-planner": false
+            }
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                    ],
+                    "common_params": {
+                    },
+                    "name": "explore",
+                    "params": {
+                        "a": 0,
+                        "b": 1,
+                        "radius": 5
+                    }
+                }
+            ],
+            "common_params": {
+            },
+            "name": "conc",
+            "params": {
+                "stop-on-first": true
+            }
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                    ],
+                    "common_params": {
+                    },
+                    "name": "save-to-db",
+                    "params": {
+                        "a": 0,
+                        "b": 1,
+                        "radius": 5
+                    }
+                }
+            ],
+            "common_params": {
+            },
+            "name": "conc",
+            "params": {
+                "stop-on-first": true
+            }
+        }
+    ],
+    "common_params": {
+    },
+    "name": "seq",
+    "params": {
+    }
+}

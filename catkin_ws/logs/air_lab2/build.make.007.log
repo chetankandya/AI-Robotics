@@ -1,0 +1,10 @@
+[35m[1mScanning dependencies of target motion_planner[0m
+[35m[1mScanning dependencies of target ls_to_occ[0m
+[ 25%] Built target occ_to_display
+[ 50%] Built target traversability_to_display
+[ 62%] [32mBuilding CXX object CMakeFiles/ls_to_occ.dir/src/ls_to_occ.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/motion_planner.dir/src/motion_planner.cpp.o[0m
+[ 87%] [32m[1mLinking CXX executable /home/cheka108/TDDE05/catkin_ws/devel/.private/air_lab2/lib/air_lab2/ls_to_occ[0m
+[ 87%] Built target ls_to_occ
+[100%] [32m[1mLinking CXX executable /home/cheka108/TDDE05/catkin_ws/devel/.private/air_lab2/lib/air_lab2/motion_planner[0m
+[100%] Built target motion_planner

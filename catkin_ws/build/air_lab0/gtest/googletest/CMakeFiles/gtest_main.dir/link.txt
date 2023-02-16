@@ -1,0 +1,1 @@
+/bin/c++ -fPIC   -shared -Wl,-soname,libgtest_main.so -o ../lib/libgtest_main.so CMakeFiles/gtest_main.dir/src/gtest_main.cc.o  -Wl,-rpath,/home/cheka108/TDDE05/catkin_ws/build/air_lab0/gtest/lib ../lib/libgtest.so -lpthread 

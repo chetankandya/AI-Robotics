@@ -1,0 +1,4 @@
+[ 25%] Built target occ_to_display
+[ 87%] Built target traversability_to_display
+[ 87%] Built target ls_to_occ
+[100%] Built target motion_planner

@@ -1,0 +1,1 @@
+/home/cheka108/TDDE05/catkin_ws/devel/.private/air_lab3/share/roseus/ros/air_lab3/manifest.l

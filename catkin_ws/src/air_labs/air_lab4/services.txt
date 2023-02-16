@@ -1,0 +1,24 @@
+PREFIX gis: <http://www.ida.liu.se/~TDDE05/gis>
+PREFIX properties: <http://www.ida.liu.se/~TDDE05/properties>
+  
+SELECT ?x ?y WHERE { <someid> a <someklass> ;
+              properties:location [ gis:x ?x; gis:y ?y ] . }
+
+
+
+-- retrieved with command "rosservice list" in terminal
+
+/husky0/kDBServerNodelet/erase_database
+/husky0/kDBServerNodelet/get_altitude
+/husky0/kDBServerNodelet/get_altitude_from_geo_point
+/husky0/kDBServerNodelet/get_loggers
+/husky0/kDBServerNodelet/insert_triples
+/husky0/kDBServerNodelet/sparql_query
+/husky0/kDBServerNodelet/sparql_query2
+/husky0/kDBServerNodelet/sql_query
+/husky0/kDBServerNodelet/start_topic_recording
+/husky0/kDBServerNodelet/stop_topic_recording
+/husky0/kdb_nodelets/list
+/husky0/kdb_nodelets/load_nodelet
+/husky0/kdb_nodelets/set_logger_level
+/husky0/kdb_nodelets/unload_nodelet

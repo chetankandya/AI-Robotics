@@ -1,0 +1,12 @@
+[31m[1mCMake Error[0m at /opt/ros/noetic/share/catkin/cmake/assert.cmake:20 (message):
+
+
+  Assertion failed: file
+  '/home/cheka108/TDDE05/catkin_ws/src/air_labs/air_lab3/srv/Service1.srv'
+  does not exist.  Message: service file not found
+
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/noetic/share/genmsg/cmake/genmsg-extras.cmake:170 (assert_file_exists)
+  CMakeLists.txt:59 (add_service_files)
+
+

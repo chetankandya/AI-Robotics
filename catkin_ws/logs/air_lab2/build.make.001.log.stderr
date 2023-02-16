@@ -1,0 +1,7 @@
+[01m[K/home/cheka108/TDDE05/catkin_ws/src/air_labs/air_lab2/src/ls_to_occ.cpp:[m[K In member function ‘[01m[Kvoid LStoOCC::laserScanCallback(const LaserScanPtr&)[m[K’:
+[01m[K/home/cheka108/TDDE05/catkin_ws/src/air_labs/air_lab2/src/ls_to_occ.cpp:69:13:[m[K [01;31m[Kerror: [m[K‘[01m[Ki[m[K’ was not declared in this scope
+   69 |         for([01;31m[Ki[m[K= _message->angle_min; i<= _message->angle_max; i+=_message->angle_increment)
+      |             [01;31m[K^[m[K
+make[2]: *** [CMakeFiles/ls_to_occ.dir/build.make:63: CMakeFiles/ls_to_occ.dir/src/ls_to_occ.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:201: CMakeFiles/ls_to_occ.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

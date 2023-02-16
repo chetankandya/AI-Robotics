@@ -1,0 +1,1 @@
+/home/cheka108/TDDE05/catkin_ws/devel/.private/air_lab0/lib/pkgconfig/air_lab0.pc

@@ -1,0 +1,23 @@
+[  6%] [34m[1mGenerating husky_control_node.cpp, husky_control_node.h[0m
+[34mUsing prototypes directories: /courses/TDDE05/software/catkin_ws/build/lrs_march/march;/courses/TDDE05/software/catkin_ws/src/lrs_march/march
+[  6%] Built target std_msgs_generate_messages_cpp
+[34mReading mappings from /courses/TDDE05/software/catkin_ws/src/lrs_march/march_common_messages_mapping.json[0m
+[  6%] Built target std_msgs_generate_messages_py
+[  6%] Built target _air_lab1_generate_messages_check_deps_ControllerEvaluationStat
+[  6%] Built target std_msgs_generate_messages_lisp
+[  6%] Built target std_msgs_generate_messages_nodejs
+[  6%] Built target std_msgs_generate_messages_eus
+[ 12%] Built target lrs_march_air_lab1_bases_h
+[ 18%] Built target air_lab1_generate_messages_cpp
+[35m[1mScanning dependencies of target air_lab1_nodelets[0m
+[ 31%] Built target air_lab1_generate_messages_py
+[ 37%] Built target air_lab1_generate_messages_lisp
+[ 56%] Built target air_lab1_generate_messages_eus
+[ 56%] Built target air_lab1_generate_messages_nodejs
+[ 56%] Built target lrs_march_air_lab1
+[ 56%] Built target air_lab1_generate_messages
+[ 56%] Built target march_air_lab1_modules
+[ 75%] Built target air_lab1_march_factories
+[ 81%] [32mBuilding CXX object CMakeFiles/air_lab1_nodelets.dir/husky_control_node.cpp.o[0m
+[ 87%] [32m[1mLinking CXX shared library /home/cheka108/TDDE05/catkin_ws/devel/.private/air_lab1/lib/libair_lab1_nodelets.so[0m
+[100%] Built target air_lab1_nodelets

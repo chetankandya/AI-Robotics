@@ -1,0 +1,18 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  6%] Built target lrs_march_air_lab1_bases_h
+[  6%] Built target _air_lab1_generate_messages_check_deps_ControllerEvaluationStat
+[  6%] Built target lrs_march_air_lab1
+[ 25%] Built target air_lab1_march_factories
+[ 31%] [32m[1mLinking CXX shared library /home/cheka108/TDDE05/catkin_ws/devel/.private/air_lab1/lib/libair_lab1_nodelets.so[0m
+[ 43%] Built target air_lab1_generate_messages_lisp
+[ 43%] Built target air_lab1_generate_messages_nodejs
+[ 43%] Built target march_air_lab1_modules
+[ 56%] Built target air_lab1_generate_messages_eus
+[ 75%] Built target air_lab1_generate_messages_cpp
+[ 75%] Built target air_lab1_generate_messages_py
+[ 75%] Built target air_lab1_generate_messages
+[100%] Built target air_lab1_nodelets

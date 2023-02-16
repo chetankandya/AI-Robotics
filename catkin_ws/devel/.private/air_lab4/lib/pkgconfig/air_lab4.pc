@@ -1,0 +1,8 @@
+prefix=/home/cheka108/TDDE05/catkin_ws/devel/.private/air_lab4
+
+Name: air_lab4
+Description: Description of air_lab4
+Version: 0.0.0
+Cflags: -I/home/cheka108/TDDE05/catkin_ws/devel/.private/air_lab4/include
+Libs: -L${prefix}/lib 
+Requires: 

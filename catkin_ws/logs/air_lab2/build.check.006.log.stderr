@@ -1,0 +1,39 @@
+CMake Warning (dev) at CMakeLists.txt:2 (project):
+  Policy CMP0048 is not set: project() command manages VERSION variables.
+  Run "cmake --help-policy CMP0048" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+
+  The following variable(s) would be set to empty:
+
+    CMAKE_PROJECT_VERSION
+    CMAKE_PROJECT_VERSION_MAJOR
+    CMAKE_PROJECT_VERSION_MINOR
+    CMAKE_PROJECT_VERSION_PATCH
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+[33m[1mCMake Warning[0m at /home/cheka108/TDDE05/catkin_ws/src/air_labs/air_lab2/CMakeLists.txt:20 (find_package):
+  By not providing "FindOMPL.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "OMPL", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "OMPL" with any of
+  the following names:
+
+    OMPLConfig.cmake
+    ompl-config.cmake
+
+  Add the installation prefix of "OMPL" to CMAKE_PREFIX_PATH or set
+  "OMPL_DIR" to a directory containing one of the above files.  If "OMPL"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+
+CMake Warning (dev) at CMakeLists.txt:155 (add_dependencies):
+  Policy CMP0046 is not set: Error on non-existent dependency in
+  add_dependencies.  Run "cmake --help-policy CMP0046" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  The dependency target "air_lab2_generate_messages_cpp" of target
+  "traversability_to_display" does not exist.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+

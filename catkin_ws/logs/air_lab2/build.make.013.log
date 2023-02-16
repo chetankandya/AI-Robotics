@@ -1,0 +1,8 @@
+[ 12%] [32m[1mLinking CXX executable /home/cheka108/TDDE05/catkin_ws/devel/.private/air_lab2/lib/air_lab2/ls_to_occ[0m
+[ 25%] [32m[1mLinking CXX executable /home/cheka108/TDDE05/catkin_ws/devel/.private/air_lab2/lib/air_lab2/occ_to_display[0m
+[ 37%] [32m[1mLinking CXX executable /home/cheka108/TDDE05/catkin_ws/devel/.private/air_lab2/lib/air_lab2/motion_planner[0m
+[ 50%] [32m[1mLinking CXX executable /home/cheka108/TDDE05/catkin_ws/devel/.private/air_lab2/lib/air_lab2/traversability_to_display[0m
+[ 62%] Built target occ_to_display
+[ 75%] Built target ls_to_occ
+[100%] Built target motion_planner
+[100%] Built target traversability_to_display

@@ -1,0 +1,63 @@
+{
+    "children": [
+        {
+            "children": [],
+            "common_params": {},
+            "name": "drive-to",
+            "params": {
+                "p": {
+                    "rostype": "Point",
+                    "x": -1,
+                    "y": 6,
+                    "z": 0
+                },
+                "use-motion-planner": false
+            }
+        },
+        {
+            "children": [],
+            "common_params": {},
+            "name": "drive-to",
+            "params": {
+                "p": {
+                    "rostype": "Point",
+                    "x": 0,
+                    "y": 4,
+                    "z": 0
+                },
+                "use-motion-planner": false
+            }
+        },
+        {
+            "children": [],
+            "common_params": {},
+            "name": "drive-to",
+            "params": {
+                "p": {
+                    "rostype": "Point",
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "use-motion-planner": false
+            }
+        },
+        {
+            "children": [],
+            "common_params": {},
+            "name": "drive-to",
+            "params": {
+                "p": {
+                    "rostype": "Point",
+                    "x": 4,
+                    "y": 5,
+                    "z": 0
+                },
+                "use-motion-planner": false
+            }
+        }
+    ],
+    "common_params": {},
+    "name": "seq",
+    "params": {}
+}
